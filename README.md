@@ -1,9 +1,10 @@
 # roboarm
 
 ROS/RViz package. Source located in /install/setup.bash.
+source /install/setup.bash
 
-Use xacro roboarm.xacro > roboarm.urdf to build urdf file.
-
+Use xacro to edit URDF and build URDF file.
+roboarm.xacro > roboarm.urdf
 
 To build the package:
 colcon build --packages-select roboarm 

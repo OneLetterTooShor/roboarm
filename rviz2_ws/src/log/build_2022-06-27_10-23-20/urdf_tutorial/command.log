@@ -1,0 +1,2 @@
+Invoking command in '/home/andrew/rviz2_ws/src/build/urdf_tutorial': /usr/local/bin/cmake /home/andrew/rviz2_ws/src/src/urdf_tutorial -DCMAKE_INSTALL_PREFIX=/home/andrew/rviz2_ws/src/install/urdf_tutorial
+Invoked command in '/home/andrew/rviz2_ws/src/build/urdf_tutorial' returned '1': /usr/local/bin/cmake /home/andrew/rviz2_ws/src/src/urdf_tutorial -DCMAKE_INSTALL_PREFIX=/home/andrew/rviz2_ws/src/install/urdf_tutorial

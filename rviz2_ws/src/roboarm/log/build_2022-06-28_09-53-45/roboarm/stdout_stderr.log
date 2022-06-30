@@ -1,0 +1,39 @@
+-- Install configuration: ""
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/config
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/launch
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/launch/roboarm.launch.py
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/maps
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Arm 03.STL
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Waist.STL
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Gripper 1.STL
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Arm 01.STL
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Arm 02 v3.STL
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Gripper base.STL
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/grip link 1.STL
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Base.STL
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/gear2.STL
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/gear1.STL
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/models
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/params
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/rviz
+-- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/rviz/rviz_basic_settings.rviz
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/src
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/urdf
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/urdf/roboarm.urdf
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/worlds
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/ament_index/resource_index/package_run_dependencies/roboarm
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/ament_index/resource_index/parent_prefix_path/roboarm
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/environment/ament_prefix_path.sh
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/environment/path.sh
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/environment/path.dsv
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/local_setup.bash
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/local_setup.sh
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/local_setup.zsh
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/local_setup.dsv
+-- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/package.dsv
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/ament_index/resource_index/packages/roboarm
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/cmake/roboarmConfig.cmake
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/cmake/roboarmConfig-version.cmake
+-- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/package.xml

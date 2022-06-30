@@ -1,0 +1,4 @@
+Invoking command in '/home/andrew/rviz2_ws/src/roboarm/build/roboarm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/local/bin/cmake --build /home/andrew/rviz2_ws/src/roboarm/build/roboarm -- -j2 -l2
+Invoked command in '/home/andrew/rviz2_ws/src/roboarm/build/roboarm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/local/bin/cmake --build /home/andrew/rviz2_ws/src/roboarm/build/roboarm -- -j2 -l2
+Invoking command in '/home/andrew/rviz2_ws/src/roboarm/build/roboarm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/local/bin/cmake --install /home/andrew/rviz2_ws/src/roboarm/build/roboarm
+Invoked command in '/home/andrew/rviz2_ws/src/roboarm/build/roboarm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/local/bin/cmake --install /home/andrew/rviz2_ws/src/roboarm/build/roboarm

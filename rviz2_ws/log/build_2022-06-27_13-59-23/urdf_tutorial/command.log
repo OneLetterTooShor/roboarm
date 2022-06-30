@@ -1,0 +1,6 @@
+Invoking command in '/home/andrew/rviz2_ws/build/urdf_tutorial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/andrew/rviz2_ws/src/src/urdf_tutorial -DCMAKE_INSTALL_PREFIX=/home/andrew/rviz2_ws/install/urdf_tutorial
+Invoked command in '/home/andrew/rviz2_ws/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/andrew/rviz2_ws/src/src/urdf_tutorial -DCMAKE_INSTALL_PREFIX=/home/andrew/rviz2_ws/install/urdf_tutorial
+Invoking command in '/home/andrew/rviz2_ws/build/urdf_tutorial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/andrew/rviz2_ws/build/urdf_tutorial -- -j2 -l2
+Invoked command in '/home/andrew/rviz2_ws/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/andrew/rviz2_ws/build/urdf_tutorial -- -j2 -l2
+Invoking command in '/home/andrew/rviz2_ws/build/urdf_tutorial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/andrew/rviz2_ws/build/urdf_tutorial
+Invoked command in '/home/andrew/rviz2_ws/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/andrew/rviz2_ws/build/urdf_tutorial

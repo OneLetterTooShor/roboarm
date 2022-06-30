@@ -1,0 +1,4 @@
+source;share/roboarm/local_setup.bash
+source;share/roboarm/local_setup.dsv
+source;share/roboarm/local_setup.sh
+source;share/roboarm/local_setup.zsh

@@ -1,0 +1,36 @@
+-- The C compiler identification is GNU 11.2.0
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3.10 (found version "3.10.4") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/andrew/rviz2_ws/build/roboarm
+-- Install configuration: ""
+-- Installing: /home/andrew/rviz2_ws/install/roboarm/share/ament_index/resource_index/package_run_dependencies/roboarm
+-- Installing: /home/andrew/rviz2_ws/install/roboarm/share/ament_index/resource_index/parent_prefix_path/roboarm
+-- Installing: /home/andrew/rviz2_ws/install/roboarm/share/roboarm/environment/ament_prefix_path.sh
+-- Installing: /home/andrew/rviz2_ws/install/roboarm/share/roboarm/environment/ament_prefix_path.dsv
+-- Installing: /home/andrew/rviz2_ws/install/roboarm/share/roboarm/environment/path.sh
+-- Installing: /home/andrew/rviz2_ws/install/roboarm/share/roboarm/environment/path.dsv
+-- Installing: /home/andrew/rviz2_ws/install/roboarm/share/roboarm/local_setup.bash
+-- Installing: /home/andrew/rviz2_ws/install/roboarm/share/roboarm/local_setup.sh
+-- Installing: /home/andrew/rviz2_ws/install/roboarm/share/roboarm/local_setup.zsh
+-- Installing: /home/andrew/rviz2_ws/install/roboarm/share/roboarm/local_setup.dsv
+-- Installing: /home/andrew/rviz2_ws/install/roboarm/share/roboarm/package.dsv
+-- Installing: /home/andrew/rviz2_ws/install/roboarm/share/ament_index/resource_index/packages/roboarm
+-- Installing: /home/andrew/rviz2_ws/install/roboarm/share/roboarm/cmake/roboarmConfig.cmake
+-- Installing: /home/andrew/rviz2_ws/install/roboarm/share/roboarm/cmake/roboarmConfig-version.cmake
+-- Installing: /home/andrew/rviz2_ws/install/roboarm/share/roboarm/package.xml

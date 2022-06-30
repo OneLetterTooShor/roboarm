@@ -1,0 +1,251 @@
+[0.475s] DEBUG:colcon:Command line arguments: ['/home/andrew/.local/bin/colcon', 'build']
+[0.475s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=False, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=2, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x7f9c57655600>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x7f9c577f67a0>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x7f9c577f67a0>>)
+[0.503s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[0.503s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[0.503s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[0.503s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[0.503s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[0.503s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[0.503s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/andrew/rviz2_ws'
+[0.503s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[0.504s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[0.504s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[0.504s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[0.504s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[0.504s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[0.504s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[0.504s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[0.504s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[0.514s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[0.514s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[0.514s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[0.514s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[0.514s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[0.514s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[0.514s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[0.514s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[0.514s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[0.514s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ignore', 'ignore_ament_install']
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore'
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore_ament_install'
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_pkg']
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_pkg'
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_meta']
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_meta'
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ros']
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ros'
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['cmake', 'python']
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'cmake'
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python'
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['python_setup_py']
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python_setup_py'
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL) by extensions ['ignore', 'ignore_ament_install']
+[0.515s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL) by extension 'ignore'
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL) by extension 'ignore_ament_install'
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL) by extensions ['colcon_pkg']
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL) by extension 'colcon_pkg'
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL) by extensions ['colcon_meta']
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL) by extension 'colcon_meta'
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL) by extensions ['ros']
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL) by extension 'ros'
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL) by extensions ['cmake', 'python']
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL) by extension 'cmake'
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL) by extension 'python'
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL) by extensions ['python_setup_py']
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL) by extension 'python_setup_py'
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL/meshes) by extensions ['ignore', 'ignore_ament_install']
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL/meshes) by extension 'ignore'
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL/meshes) by extension 'ignore_ament_install'
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL/meshes) by extensions ['colcon_pkg']
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL/meshes) by extension 'colcon_pkg'
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL/meshes) by extensions ['colcon_meta']
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL/meshes) by extension 'colcon_meta'
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL/meshes) by extensions ['ros']
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL/meshes) by extension 'ros'
+[0.516s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL/meshes) by extensions ['cmake', 'python']
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL/meshes) by extension 'cmake'
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL/meshes) by extension 'python'
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL/meshes) by extensions ['python_setup_py']
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/armSTL/meshes) by extension 'python_setup_py'
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/build) by extensions ['ignore', 'ignore_ament_install']
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/build) by extension 'ignore'
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/build) ignored
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/install) by extensions ['ignore', 'ignore_ament_install']
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/install) by extension 'ignore'
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/install) ignored
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/log) by extensions ['ignore', 'ignore_ament_install']
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/log) by extension 'ignore'
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/log) ignored
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/roboarm) by extensions ['ignore', 'ignore_ament_install']
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/roboarm) by extension 'ignore'
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/roboarm) by extension 'ignore_ament_install'
+[0.517s] Level 1:colcon.colcon_core.package_identification:_identify(src/roboarm) by extensions ['colcon_pkg']
+[0.518s] Level 1:colcon.colcon_core.package_identification:_identify(src/roboarm) by extension 'colcon_pkg'
+[0.518s] Level 1:colcon.colcon_core.package_identification:_identify(src/roboarm) by extensions ['colcon_meta']
+[0.518s] Level 1:colcon.colcon_core.package_identification:_identify(src/roboarm) by extension 'colcon_meta'
+[0.518s] Level 1:colcon.colcon_core.package_identification:_identify(src/roboarm) by extensions ['ros']
+[0.518s] Level 1:colcon.colcon_core.package_identification:_identify(src/roboarm) by extension 'ros'
+[0.520s] DEBUG:colcon.colcon_core.package_identification:Package 'src/roboarm' with type 'ros.ament_cmake' and name 'roboarm'
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src) by extensions ['ignore', 'ignore_ament_install']
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src) by extension 'ignore'
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src) by extension 'ignore_ament_install'
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src) by extensions ['colcon_pkg']
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src) by extension 'colcon_pkg'
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src) by extensions ['colcon_meta']
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src) by extension 'colcon_meta'
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src) by extensions ['ros']
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src) by extension 'ros'
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src) by extensions ['cmake', 'python']
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src) by extension 'cmake'
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src) by extension 'python'
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src) by extensions ['python_setup_py']
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src) by extension 'python_setup_py'
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src/urdf_tutorial) by extensions ['ignore', 'ignore_ament_install']
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src/urdf_tutorial) by extension 'ignore'
+[0.520s] Level 1:colcon.colcon_core.package_identification:_identify(src/src/urdf_tutorial) by extension 'ignore_ament_install'
+[0.521s] Level 1:colcon.colcon_core.package_identification:_identify(src/src/urdf_tutorial) by extensions ['colcon_pkg']
+[0.521s] Level 1:colcon.colcon_core.package_identification:_identify(src/src/urdf_tutorial) by extension 'colcon_pkg'
+[0.521s] Level 1:colcon.colcon_core.package_identification:_identify(src/src/urdf_tutorial) by extensions ['colcon_meta']
+[0.521s] Level 1:colcon.colcon_core.package_identification:_identify(src/src/urdf_tutorial) by extension 'colcon_meta'
+[0.521s] Level 1:colcon.colcon_core.package_identification:_identify(src/src/urdf_tutorial) by extensions ['ros']
+[0.521s] Level 1:colcon.colcon_core.package_identification:_identify(src/src/urdf_tutorial) by extension 'ros'
+[0.521s] DEBUG:colcon.colcon_core.package_identification:Package 'src/src/urdf_tutorial' with type 'ros.ament_cmake' and name 'urdf_tutorial'
+[0.521s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[0.521s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[0.521s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[0.521s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[0.521s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[0.555s] Level 5:colcon.colcon_core.verb:set package 'roboarm' build argument 'cmake_args' from command line to 'None'
+[0.556s] Level 5:colcon.colcon_core.verb:set package 'roboarm' build argument 'cmake_target' from command line to 'None'
+[0.556s] Level 5:colcon.colcon_core.verb:set package 'roboarm' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.556s] Level 5:colcon.colcon_core.verb:set package 'roboarm' build argument 'cmake_clean_cache' from command line to 'False'
+[0.556s] Level 5:colcon.colcon_core.verb:set package 'roboarm' build argument 'cmake_clean_first' from command line to 'False'
+[0.556s] Level 5:colcon.colcon_core.verb:set package 'roboarm' build argument 'cmake_force_configure' from command line to 'False'
+[0.556s] Level 5:colcon.colcon_core.verb:set package 'roboarm' build argument 'ament_cmake_args' from command line to 'None'
+[0.556s] Level 5:colcon.colcon_core.verb:set package 'roboarm' build argument 'catkin_cmake_args' from command line to 'None'
+[0.556s] Level 5:colcon.colcon_core.verb:set package 'roboarm' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.556s] DEBUG:colcon.colcon_core.verb:Building package 'roboarm' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/andrew/rviz2_ws/build/roboarm', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/andrew/rviz2_ws/install/roboarm', 'merge_install': False, 'path': '/home/andrew/rviz2_ws/src/roboarm', 'symlink_install': False, 'test_result_base': None}
+[0.561s] Level 5:colcon.colcon_core.verb:set package 'urdf_tutorial' build argument 'cmake_args' from command line to 'None'
+[0.562s] Level 5:colcon.colcon_core.verb:set package 'urdf_tutorial' build argument 'cmake_target' from command line to 'None'
+[0.562s] Level 5:colcon.colcon_core.verb:set package 'urdf_tutorial' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[0.562s] Level 5:colcon.colcon_core.verb:set package 'urdf_tutorial' build argument 'cmake_clean_cache' from command line to 'False'
+[0.562s] Level 5:colcon.colcon_core.verb:set package 'urdf_tutorial' build argument 'cmake_clean_first' from command line to 'False'
+[0.562s] Level 5:colcon.colcon_core.verb:set package 'urdf_tutorial' build argument 'cmake_force_configure' from command line to 'False'
+[0.562s] Level 5:colcon.colcon_core.verb:set package 'urdf_tutorial' build argument 'ament_cmake_args' from command line to 'None'
+[0.562s] Level 5:colcon.colcon_core.verb:set package 'urdf_tutorial' build argument 'catkin_cmake_args' from command line to 'None'
+[0.562s] Level 5:colcon.colcon_core.verb:set package 'urdf_tutorial' build argument 'catkin_skip_building_tests' from command line to 'False'
+[0.562s] DEBUG:colcon.colcon_core.verb:Building package 'urdf_tutorial' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/andrew/rviz2_ws/build/urdf_tutorial', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/andrew/rviz2_ws/install/urdf_tutorial', 'merge_install': False, 'path': '/home/andrew/rviz2_ws/src/src/urdf_tutorial', 'symlink_install': False, 'test_result_base': None}
+[0.563s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[0.572s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[0.572s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/home/andrew/rviz2_ws/src/roboarm' with build type 'ament_cmake'
+[0.572s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/home/andrew/rviz2_ws/src/roboarm'
+[0.579s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[0.579s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.579s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.587s] INFO:colcon.colcon_ros.task.ament_cmake.build:Building ROS package in '/home/andrew/rviz2_ws/src/src/urdf_tutorial' with build type 'ament_cmake'
+[0.587s] INFO:colcon.colcon_cmake.task.cmake.build:Building CMake package in '/home/andrew/rviz2_ws/src/src/urdf_tutorial'
+[0.592s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[0.592s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[0.603s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/andrew/rviz2_ws/build/roboarm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/andrew/rviz2_ws/src/roboarm -DCMAKE_INSTALL_PREFIX=/home/andrew/rviz2_ws/install/roboarm
+[0.606s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/andrew/rviz2_ws/build/urdf_tutorial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/andrew/rviz2_ws/src/src/urdf_tutorial -DCMAKE_INSTALL_PREFIX=/home/andrew/rviz2_ws/install/urdf_tutorial
+[1.193s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/andrew/rviz2_ws/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/andrew/rviz2_ws/src/src/urdf_tutorial -DCMAKE_INSTALL_PREFIX=/home/andrew/rviz2_ws/install/urdf_tutorial
+[1.195s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/andrew/rviz2_ws/build/urdf_tutorial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/andrew/rviz2_ws/build/urdf_tutorial -- -j2 -l2
+[1.207s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/andrew/rviz2_ws/build/roboarm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/andrew/rviz2_ws/src/roboarm -DCMAKE_INSTALL_PREFIX=/home/andrew/rviz2_ws/install/roboarm
+[1.209s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/andrew/rviz2_ws/build/roboarm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/andrew/rviz2_ws/build/roboarm -- -j2 -l2
+[1.223s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/andrew/rviz2_ws/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/andrew/rviz2_ws/build/urdf_tutorial -- -j2 -l2
+[1.229s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/andrew/rviz2_ws/build/roboarm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/andrew/rviz2_ws/build/roboarm -- -j2 -l2
+[1.249s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/andrew/rviz2_ws/build/urdf_tutorial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/andrew/rviz2_ws/build/urdf_tutorial
+[1.249s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/andrew/rviz2_ws/build/roboarm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/andrew/rviz2_ws/build/roboarm
+[1.257s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(roboarm)
+[1.263s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/andrew/rviz2_ws/build/roboarm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/andrew/rviz2_ws/build/roboarm
+[1.273s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/roboarm' for CMake module files
+[1.274s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/roboarm' for CMake config files
+[1.274s] Level 1:colcon.colcon_core.shell:create_environment_hook('roboarm', 'cmake_prefix_path')
+[1.277s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/andrew/rviz2_ws/install/roboarm/share/roboarm/hook/cmake_prefix_path.ps1'
+[1.278s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/andrew/rviz2_ws/install/roboarm/share/roboarm/hook/cmake_prefix_path.dsv'
+[1.278s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/andrew/rviz2_ws/install/roboarm/share/roboarm/hook/cmake_prefix_path.sh'
+[1.279s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/roboarm/bin'
+[1.279s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/roboarm/lib/pkgconfig/roboarm.pc'
+[1.280s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/roboarm/lib/python3.10/site-packages'
+[1.280s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/roboarm/bin'
+[1.284s] INFO:colcon.colcon_core.shell:Creating package script '/home/andrew/rviz2_ws/install/roboarm/share/roboarm/package.ps1'
+[1.284s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/andrew/rviz2_ws/install/roboarm/share/roboarm/package.dsv'
+[1.285s] INFO:colcon.colcon_core.shell:Creating package script '/home/andrew/rviz2_ws/install/roboarm/share/roboarm/package.sh'
+[1.285s] INFO:colcon.colcon_core.shell:Creating package script '/home/andrew/rviz2_ws/install/roboarm/share/roboarm/package.bash'
+[1.286s] INFO:colcon.colcon_core.shell:Creating package script '/home/andrew/rviz2_ws/install/roboarm/share/roboarm/package.zsh'
+[1.286s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/andrew/rviz2_ws/install/roboarm/share/colcon-core/packages/roboarm)
+[1.288s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(urdf_tutorial)
+[1.293s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/urdf_tutorial' for CMake module files
+[1.293s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/andrew/rviz2_ws/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/andrew/rviz2_ws/build/urdf_tutorial
+[1.294s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/urdf_tutorial' for CMake config files
+[1.294s] Level 1:colcon.colcon_core.shell:create_environment_hook('urdf_tutorial', 'cmake_prefix_path')
+[1.297s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/hook/cmake_prefix_path.ps1'
+[1.298s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/hook/cmake_prefix_path.dsv'
+[1.298s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/hook/cmake_prefix_path.sh'
+[1.298s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/urdf_tutorial/bin'
+[1.298s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/urdf_tutorial/lib/pkgconfig/urdf_tutorial.pc'
+[1.299s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/urdf_tutorial/lib/python3.10/site-packages'
+[1.299s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/urdf_tutorial/bin'
+[1.303s] INFO:colcon.colcon_core.shell:Creating package script '/home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/package.ps1'
+[1.303s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/package.dsv'
+[1.304s] INFO:colcon.colcon_core.shell:Creating package script '/home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/package.sh'
+[1.304s] INFO:colcon.colcon_core.shell:Creating package script '/home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/package.bash'
+[1.304s] INFO:colcon.colcon_core.shell:Creating package script '/home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/package.zsh'
+[1.305s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/andrew/rviz2_ws/install/urdf_tutorial/share/colcon-core/packages/urdf_tutorial)
+[1.313s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(roboarm)
+[1.318s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/roboarm' for CMake module files
+[1.319s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/roboarm' for CMake config files
+[1.319s] Level 1:colcon.colcon_core.shell:create_environment_hook('roboarm', 'cmake_prefix_path')
+[1.323s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/andrew/rviz2_ws/install/roboarm/share/roboarm/hook/cmake_prefix_path.ps1'
+[1.323s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/andrew/rviz2_ws/install/roboarm/share/roboarm/hook/cmake_prefix_path.dsv'
+[1.324s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/andrew/rviz2_ws/install/roboarm/share/roboarm/hook/cmake_prefix_path.sh'
+[1.324s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/roboarm/bin'
+[1.324s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/roboarm/lib/pkgconfig/roboarm.pc'
+[1.324s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/roboarm/lib/python3.10/site-packages'
+[1.325s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/roboarm/bin'
+[1.328s] INFO:colcon.colcon_core.shell:Creating package script '/home/andrew/rviz2_ws/install/roboarm/share/roboarm/package.ps1'
+[1.328s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/andrew/rviz2_ws/install/roboarm/share/roboarm/package.dsv'
+[1.329s] INFO:colcon.colcon_core.shell:Creating package script '/home/andrew/rviz2_ws/install/roboarm/share/roboarm/package.sh'
+[1.329s] INFO:colcon.colcon_core.shell:Creating package script '/home/andrew/rviz2_ws/install/roboarm/share/roboarm/package.bash'
+[1.330s] INFO:colcon.colcon_core.shell:Creating package script '/home/andrew/rviz2_ws/install/roboarm/share/roboarm/package.zsh'
+[1.330s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/andrew/rviz2_ws/install/roboarm/share/colcon-core/packages/roboarm)
+[1.336s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(urdf_tutorial)
+[1.340s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/urdf_tutorial' for CMake module files
+[1.341s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/urdf_tutorial' for CMake config files
+[1.342s] Level 1:colcon.colcon_core.shell:create_environment_hook('urdf_tutorial', 'cmake_prefix_path')
+[1.345s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/hook/cmake_prefix_path.ps1'
+[1.346s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/hook/cmake_prefix_path.dsv'
+[1.346s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/hook/cmake_prefix_path.sh'
+[1.347s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/urdf_tutorial/bin'
+[1.347s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/urdf_tutorial/lib/pkgconfig/urdf_tutorial.pc'
+[1.347s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/urdf_tutorial/lib/python3.10/site-packages'
+[1.347s] Level 1:colcon.colcon_core.environment:checking '/home/andrew/rviz2_ws/install/urdf_tutorial/bin'
+[1.351s] INFO:colcon.colcon_core.shell:Creating package script '/home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/package.ps1'
+[1.351s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/package.dsv'
+[1.352s] INFO:colcon.colcon_core.shell:Creating package script '/home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/package.sh'
+[1.352s] INFO:colcon.colcon_core.shell:Creating package script '/home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/package.bash'
+[1.353s] INFO:colcon.colcon_core.shell:Creating package script '/home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/package.zsh'
+[1.353s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/andrew/rviz2_ws/install/urdf_tutorial/share/colcon-core/packages/urdf_tutorial)
+[1.354s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[1.354s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[1.354s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[1.354s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[1.366s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[1.366s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[1.366s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[1.386s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[1.389s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/andrew/rviz2_ws/install/local_setup.ps1'
+[1.390s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/andrew/rviz2_ws/install/_local_setup_util_ps1.py'
+[1.391s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/andrew/rviz2_ws/install/setup.ps1'
+[1.395s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/andrew/rviz2_ws/install/local_setup.sh'
+[1.396s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/andrew/rviz2_ws/install/_local_setup_util_sh.py'
+[1.396s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/andrew/rviz2_ws/install/setup.sh'
+[1.401s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/andrew/rviz2_ws/install/local_setup.bash'
+[1.402s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/andrew/rviz2_ws/install/setup.bash'
+[1.405s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/andrew/rviz2_ws/install/local_setup.zsh'
+[1.406s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/andrew/rviz2_ws/install/setup.zsh'

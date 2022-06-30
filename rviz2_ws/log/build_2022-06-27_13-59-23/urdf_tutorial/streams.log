@@ -1,0 +1,65 @@
+[0.009s] Invoking command in '/home/andrew/rviz2_ws/build/urdf_tutorial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/andrew/rviz2_ws/src/src/urdf_tutorial -DCMAKE_INSTALL_PREFIX=/home/andrew/rviz2_ws/install/urdf_tutorial
+[0.072s] -- The C compiler identification is GNU 11.2.0
+[0.145s] -- The CXX compiler identification is GNU 11.2.0
+[0.152s] -- Detecting C compiler ABI info
+[0.202s] -- Detecting C compiler ABI info - done
+[0.212s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.212s] -- Detecting C compile features
+[0.213s] -- Detecting C compile features - done
+[0.215s] -- Detecting CXX compiler ABI info
+[0.274s] -- Detecting CXX compiler ABI info - done
+[0.283s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.284s] -- Detecting CXX compile features
+[0.284s] -- Detecting CXX compile features - done
+[0.293s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.430s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.4") found components: Interpreter 
+[0.519s] -- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.586s] -- Configuring done
+[0.589s] -- Generating done
+[0.591s] -- Build files have been written to: /home/andrew/rviz2_ws/build/urdf_tutorial
+[0.596s] Invoked command in '/home/andrew/rviz2_ws/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/andrew/rviz2_ws/src/src/urdf_tutorial -DCMAKE_INSTALL_PREFIX=/home/andrew/rviz2_ws/install/urdf_tutorial
+[0.598s] Invoking command in '/home/andrew/rviz2_ws/build/urdf_tutorial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/andrew/rviz2_ws/build/urdf_tutorial -- -j2 -l2
+[0.626s] Invoked command in '/home/andrew/rviz2_ws/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/andrew/rviz2_ws/build/urdf_tutorial -- -j2 -l2
+[0.651s] Invoking command in '/home/andrew/rviz2_ws/build/urdf_tutorial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/andrew/rviz2_ws/build/urdf_tutorial
+[0.654s] -- Install configuration: ""
+[0.655s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/images
+[0.655s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/images/materials.png
+[0.656s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/images/myfirst.png
+[0.657s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/images/multipleshapes.png
+[0.657s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/images/origins.png
+[0.657s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/images/visual.png
+[0.666s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/images/flexible.png
+[0.667s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[0.667s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/launch/display.launch.py
+[0.667s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/meshes
+[0.667s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger_color.png
+[0.669s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger.dae
+[0.669s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger_tip.dae
+[0.669s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger_tip_color.png
+[0.669s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/rviz
+[0.669s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/rviz/urdf.rviz
+[0.669s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[0.670s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/08-macroed.urdf.xacro
+[0.671s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/04-materials.urdf
+[0.671s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/03-origins.urdf
+[0.671s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/07-physics.urdf
+[0.671s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/01-myfirst.urdf
+[0.671s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/06-flexible.urdf
+[0.672s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/05-visual.urdf
+[0.672s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/02-multipleshapes.urdf
+[0.672s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/ament_index/resource_index/package_run_dependencies/urdf_tutorial
+[0.672s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/ament_index/resource_index/parent_prefix_path/urdf_tutorial
+[0.672s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.sh
+[0.672s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.dsv
+[0.673s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/environment/path.sh
+[0.673s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/environment/path.dsv
+[0.673s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.bash
+[0.673s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.sh
+[0.673s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.zsh
+[0.673s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.dsv
+[0.675s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/package.dsv
+[0.675s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/ament_index/resource_index/packages/urdf_tutorial
+[0.675s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig.cmake
+[0.675s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig-version.cmake
+[0.676s] -- Installing: /home/andrew/rviz2_ws/install/urdf_tutorial/share/urdf_tutorial/package.xml
+[0.696s] Invoked command in '/home/andrew/rviz2_ws/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/andrew/rviz2_ws/build/urdf_tutorial

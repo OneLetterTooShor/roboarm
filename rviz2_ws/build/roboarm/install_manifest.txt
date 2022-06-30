@@ -1,0 +1,15 @@
+/home/andrew/rviz2_ws/install/roboarm/share/ament_index/resource_index/package_run_dependencies/roboarm
+/home/andrew/rviz2_ws/install/roboarm/share/ament_index/resource_index/parent_prefix_path/roboarm
+/home/andrew/rviz2_ws/install/roboarm/share/roboarm/environment/ament_prefix_path.sh
+/home/andrew/rviz2_ws/install/roboarm/share/roboarm/environment/ament_prefix_path.dsv
+/home/andrew/rviz2_ws/install/roboarm/share/roboarm/environment/path.sh
+/home/andrew/rviz2_ws/install/roboarm/share/roboarm/environment/path.dsv
+/home/andrew/rviz2_ws/install/roboarm/share/roboarm/local_setup.bash
+/home/andrew/rviz2_ws/install/roboarm/share/roboarm/local_setup.sh
+/home/andrew/rviz2_ws/install/roboarm/share/roboarm/local_setup.zsh
+/home/andrew/rviz2_ws/install/roboarm/share/roboarm/local_setup.dsv
+/home/andrew/rviz2_ws/install/roboarm/share/roboarm/package.dsv
+/home/andrew/rviz2_ws/install/roboarm/share/ament_index/resource_index/packages/roboarm
+/home/andrew/rviz2_ws/install/roboarm/share/roboarm/cmake/roboarmConfig.cmake
+/home/andrew/rviz2_ws/install/roboarm/share/roboarm/cmake/roboarmConfig-version.cmake
+/home/andrew/rviz2_ws/install/roboarm/share/roboarm/package.xml

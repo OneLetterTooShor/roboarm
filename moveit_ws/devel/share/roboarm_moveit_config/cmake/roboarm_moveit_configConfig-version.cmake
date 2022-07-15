@@ -1,0 +1,1 @@
+/home/andrew/moveit_ws/devel/.private/roboarm_moveit_config/share/roboarm_moveit_config/cmake/roboarm_moveit_configConfig-version.cmake

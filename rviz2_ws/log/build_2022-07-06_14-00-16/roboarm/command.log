@@ -1,0 +1,2 @@
+Invoking command in '/home/andrew/roboarm/rviz2_ws/build/roboarm': /usr/bin/cmake --build /home/andrew/roboarm/rviz2_ws/build/roboarm -- -j2 -l2
+Invoked command in '/home/andrew/roboarm/rviz2_ws/build/roboarm' returned '1': /usr/bin/cmake --build /home/andrew/roboarm/rviz2_ws/build/roboarm -- -j2 -l2

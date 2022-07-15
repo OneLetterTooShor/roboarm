@@ -1,0 +1,1 @@
+/home/andrew/moveit_ws/devel/.private/roboarm_moveit_config/lib/pkgconfig/roboarm_moveit_config.pc

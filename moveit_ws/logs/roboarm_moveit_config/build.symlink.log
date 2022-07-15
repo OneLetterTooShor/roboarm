@@ -1,0 +1,3 @@
+Symlinking /home/andrew/moveit_ws/devel/share/roboarm_moveit_config/cmake/roboarm_moveit_configConfig.cmake
+Symlinking /home/andrew/moveit_ws/devel/share/roboarm_moveit_config/cmake/roboarm_moveit_configConfig-version.cmake
+Symlinking /home/andrew/moveit_ws/devel/lib/pkgconfig/roboarm_moveit_config.pc

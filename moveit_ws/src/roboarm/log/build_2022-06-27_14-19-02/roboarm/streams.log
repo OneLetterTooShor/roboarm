@@ -1,0 +1,71 @@
+[0.017s] Invoking command in '/home/andrew/rviz2_ws/src/roboarm/build/roboarm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/andrew/rviz2_ws/src/roboarm -DCMAKE_INSTALL_PREFIX=/home/andrew/rviz2_ws/src/roboarm/install/roboarm
+[0.080s] -- The C compiler identification is GNU 11.2.0
+[0.129s] -- The CXX compiler identification is GNU 11.2.0
+[0.136s] -- Detecting C compiler ABI info
+[0.183s] -- Detecting C compiler ABI info - done
+[0.190s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.190s] -- Detecting C compile features
+[0.191s] -- Detecting C compile features - done
+[0.193s] -- Detecting CXX compiler ABI info
+[0.248s] -- Detecting CXX compiler ABI info - done
+[0.257s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.257s] -- Detecting CXX compile features
+[0.257s] -- Detecting CXX compile features - done
+[0.259s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.382s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.4") found components: Interpreter 
+[0.458s] -- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.528s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.528s] -- Configured cppcheck include dirs: 
+[0.528s] -- Configured cppcheck exclude dirs and/or files: 
+[0.528s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.529s] -- Added test 'lint_cmake' to check CMake code style
+[0.530s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.535s] -- Added test 'uncrustify' to check C / C++ code style
+[0.535s] -- Configured uncrustify additional arguments: 
+[0.535s] -- Added test 'xmllint' to check XML markup files
+[0.537s] -- Configuring done
+[0.540s] -- Generating done
+[0.541s] -- Build files have been written to: /home/andrew/rviz2_ws/src/roboarm/build/roboarm
+[0.547s] Invoked command in '/home/andrew/rviz2_ws/src/roboarm/build/roboarm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/andrew/rviz2_ws/src/roboarm -DCMAKE_INSTALL_PREFIX=/home/andrew/rviz2_ws/src/roboarm/install/roboarm
+[0.547s] Invoking command in '/home/andrew/rviz2_ws/src/roboarm/build/roboarm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/andrew/rviz2_ws/src/roboarm/build/roboarm -- -j2 -l2
+[0.563s] Invoked command in '/home/andrew/rviz2_ws/src/roboarm/build/roboarm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/andrew/rviz2_ws/src/roboarm/build/roboarm -- -j2 -l2
+[0.583s] Invoking command in '/home/andrew/rviz2_ws/src/roboarm/build/roboarm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/andrew/rviz2_ws/src/roboarm/build/roboarm
+[0.586s] -- Install configuration: ""
+[0.586s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/config
+[0.586s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/launch
+[0.586s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/launch/roboarm.launch.py
+[0.586s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/maps
+[0.586s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes
+[0.586s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Arm 03.STL
+[0.587s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Waist.STL
+[0.588s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Gripper 1.STL
+[0.588s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Arm 01.STL
+[0.589s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Arm 02 v3.STL
+[0.590s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Gripper base.STL
+[0.591s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/grip link 1.STL
+[0.591s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Base.STL
+[0.592s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/gear2.STL
+[0.593s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/gear1.STL
+[0.593s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/models
+[0.593s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/params
+[0.593s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/rviz
+[0.594s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/src
+[0.594s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/urdf
+[0.594s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/urdf/roboarm.urdf
+[0.594s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/worlds
+[0.594s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/ament_index/resource_index/package_run_dependencies/roboarm
+[0.594s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/ament_index/resource_index/parent_prefix_path/roboarm
+[0.594s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/environment/ament_prefix_path.sh
+[0.594s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/environment/ament_prefix_path.dsv
+[0.594s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/environment/path.sh
+[0.594s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/environment/path.dsv
+[0.594s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/local_setup.bash
+[0.595s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/local_setup.sh
+[0.595s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/local_setup.zsh
+[0.595s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/local_setup.dsv
+[0.595s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/package.dsv
+[0.595s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/ament_index/resource_index/packages/roboarm
+[0.595s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/cmake/roboarmConfig.cmake
+[0.595s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/cmake/roboarmConfig-version.cmake
+[0.595s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/package.xml
+[0.600s] Invoked command in '/home/andrew/rviz2_ws/src/roboarm/build/roboarm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/andrew/rviz2_ws/src/roboarm/build/roboarm

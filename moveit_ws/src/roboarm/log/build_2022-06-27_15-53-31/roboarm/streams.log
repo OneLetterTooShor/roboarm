@@ -1,0 +1,43 @@
+[0.020s] Invoking command in '/home/andrew/rviz2_ws/src/roboarm/build/roboarm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/local/bin/cmake --build /home/andrew/rviz2_ws/src/roboarm/build/roboarm -- -j2 -l2
+[0.041s] Invoked command in '/home/andrew/rviz2_ws/src/roboarm/build/roboarm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/local/bin/cmake --build /home/andrew/rviz2_ws/src/roboarm/build/roboarm -- -j2 -l2
+[0.060s] Invoking command in '/home/andrew/rviz2_ws/src/roboarm/build/roboarm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/local/bin/cmake --install /home/andrew/rviz2_ws/src/roboarm/build/roboarm
+[0.062s] -- Install configuration: ""
+[0.063s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/config
+[0.063s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/launch
+[0.063s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/launch/roboarm.launch.py
+[0.063s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/maps
+[0.063s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes
+[0.063s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Arm 03.STL
+[0.064s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Waist.STL
+[0.064s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Gripper 1.STL
+[0.064s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Arm 01.STL
+[0.064s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Arm 02 v3.STL
+[0.064s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Gripper base.STL
+[0.064s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/grip link 1.STL
+[0.064s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/Base.STL
+[0.064s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/gear2.STL
+[0.065s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/meshes/gear1.STL
+[0.065s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/models
+[0.065s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/params
+[0.065s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/rviz
+[0.065s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/rviz/rviz_basic_settings.rviz
+[0.065s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/src
+[0.065s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/urdf
+[0.066s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/urdf/roboarm.urdf
+[0.066s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/worlds
+[0.066s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/ament_index/resource_index/package_run_dependencies/roboarm
+[0.066s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/ament_index/resource_index/parent_prefix_path/roboarm
+[0.066s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/environment/ament_prefix_path.sh
+[0.067s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/environment/ament_prefix_path.dsv
+[0.067s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/environment/path.sh
+[0.067s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/environment/path.dsv
+[0.067s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/local_setup.bash
+[0.067s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/local_setup.sh
+[0.067s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/local_setup.zsh
+[0.068s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/local_setup.dsv
+[0.068s] -- Installing: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/package.dsv
+[0.068s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/ament_index/resource_index/packages/roboarm
+[0.068s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/cmake/roboarmConfig.cmake
+[0.068s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/cmake/roboarmConfig-version.cmake
+[0.068s] -- Up-to-date: /home/andrew/rviz2_ws/src/roboarm/install/roboarm/share/roboarm/package.xml
+[0.071s] Invoked command in '/home/andrew/rviz2_ws/src/roboarm/build/roboarm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/local/bin/cmake --install /home/andrew/rviz2_ws/src/roboarm/build/roboarm

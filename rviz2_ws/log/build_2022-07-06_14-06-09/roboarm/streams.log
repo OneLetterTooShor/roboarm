@@ -1,0 +1,4 @@
+[0.019s] Invoking command in '/home/andrew/roboarm/rviz2_ws/build/roboarm': /usr/bin/cmake --build /home/andrew/roboarm/rviz2_ws/build/roboarm -- -j2 -l2
+[0.035s] No such file or directory
+[0.035s] CMake Error: Generator: execution of make failed. Make command was: /usr/bin/gmake -j2 -l2 && 
+[0.036s] Invoked command in '/home/andrew/roboarm/rviz2_ws/build/roboarm' returned '1': /usr/bin/cmake --build /home/andrew/roboarm/rviz2_ws/build/roboarm -- -j2 -l2

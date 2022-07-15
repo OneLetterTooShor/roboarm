@@ -1,0 +1,5 @@
+[0.015s] Invoking command in '/home/andrew/roboarm/rviz2_ws/src/roboarm/build/roboarm': /usr/bin/cmake --build /home/andrew/roboarm/rviz2_ws/src/roboarm/build/roboarm -- -j2 -l2
+[0.023s] CMake Error: The current CMakeCache.txt directory /home/andrew/roboarm/rviz2_ws/src/roboarm/build/roboarm/CMakeCache.txt is different than the directory /home/andrew/rviz2_ws/src/roboarm/build/roboarm where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+[0.026s] No such file or directory
+[0.026s] CMake Error: Generator: execution of make failed. Make command was: /usr/bin/gmake -j2 -l2 && 
+[0.030s] Invoked command in '/home/andrew/roboarm/rviz2_ws/src/roboarm/build/roboarm' returned '1': /usr/bin/cmake --build /home/andrew/roboarm/rviz2_ws/src/roboarm/build/roboarm -- -j2 -l2
